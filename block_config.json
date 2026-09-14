@@ -1,0 +1,61 @@
+{
+    "Block_1": {
+        "block_id": "Block_1",
+        "variables": [
+            "v25_alpha_norm",
+            "v25_sin_norm",
+            "v25_sincos_norm",
+            "v2_alpha_norm",
+            "v2_sin_norm",
+            "v2_sincos_norm",
+            "v3_alpha_norm",
+            "v3_sin_norm",
+            "v3_sincos_norm"
+        ],
+        "summed_latent_size": 178
+    },
+    "Block_3": {
+        "block_id": "Block_3",
+        "variables": [
+            "v25_alpha2_norm",
+            "v25_sin2_norm",
+            "v2_alpha2_norm",
+            "v2_sin2_norm",
+            "v3_alpha2_norm",
+            "v3_sin2_norm"
+        ],
+        "summed_latent_size": 108
+    },
+    "Block_4": {
+        "block_id": "Block_4",
+        "variables": [
+            "v25_mean_norm",
+            "v3_mean_norm"
+        ],
+        "summed_latent_size": 40
+    },
+    "Block_2": {
+        "block_id": "Block_2",
+        "variables": [
+            "v25_sin3_norm",
+            "v2_sin3_norm",
+            "v3_sin3_norm"
+        ],
+        "summed_latent_size": 57
+    },
+    "Block_5": {
+        "block_id": "Block_5",
+        "variables": [
+            "v2_cos2_norm",
+            "v2_mean_norm"
+        ],
+        "summed_latent_size": 28
+    },
+    "Block_6": {
+        "block_id": "Block_6",
+        "variables": [
+            "v_mean_norm"
+        ],
+        "summed_latent_size": 9
+    }
+}
