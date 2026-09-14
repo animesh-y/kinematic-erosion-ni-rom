@@ -1,5 +1,6 @@
 # Multi-Model Non-Intrusive Reduced-Order Framework for Parametric Erosion Prediction
 
+ [![arXiv](https://img.shields.io/badge/arXiv-2609.09997-b31b1b.svg)](https://arxiv.org/abs/2609.09997)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-ee4c2c.svg)](https://pytorch.org/)
@@ -124,10 +125,12 @@ python src/evaluation/moment_sensitivity_analysis.py
 
 If you use this codebase or methodology in your research, please cite:
 ```bibtex
-@article{yadav2026multimodel,
+@misc{yadav2026multimodel,
   title={A Multi-Model Non-Intrusive Reduced-Order Framework for Parametric Erosion Prediction via Kinematic Cross-Moment Compression},
-  author={Yadav, Animesh and Shukla, Rajesh K.},
-  journal={Computer Methods in Applied Mechanics and Engineering},
-  year={2026}
+  author={Animesh Yadav and Rajesh K. Shukla},
+  year={2026},
+  eprint={2609.09997},
+  archivePrefix={arXiv},
+  primaryClass={physics.flu-dyn}
 }
 ```
