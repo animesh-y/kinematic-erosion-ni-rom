@@ -131,6 +131,6 @@ If you use this codebase or methodology in your research, please cite:
   year={2026},
   eprint={2609.09997},
   archivePrefix={arXiv},
-  primaryClass={physics.flu-dyn}
+  primaryClass={physics.app-ph}
 }
 ```
