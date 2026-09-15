@@ -8,7 +8,7 @@
 
 This repository contains the official implementation of the paper:
 > **"A Multi-Model Non-Intrusive Reduced-Order Framework for Parametric Erosion Prediction via Kinematic Cross-Moment Compression"**  
-> *Animesh Yadav, Rajesh K. Shukla* (Department of Mechanical Engineering, Thapar Institute of Engineering and Technology).
+> *Animesh Yadav, Rajesh K. Shukla*, Ravinder K. Duvedi (Department of Mechanical Engineering, Thapar Institute of Engineering and Technology).
 
 ---
 
